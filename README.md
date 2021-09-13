@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-open sw platform
+Hi i'm Hyunsoo Bang
