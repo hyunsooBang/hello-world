@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-Im hyunsoo Bang!
+I dont know why it didnt work
+help
